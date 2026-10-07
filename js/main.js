@@ -144,6 +144,22 @@ const projectsData = [
         image: "Images/project-1.png",
         live: "https://evansamos.netlify.app",
         github: "https://github.com/evansamos254/portfolio"
+    },
+    {
+        id: 'busia-county-leave-system',
+        title: "Busia County Staff Online Leave Application System",
+        description: "A web-based portal for Busia County staff to submit and manage leave applications.",
+        image: "Images/project-3.png",
+        live: "https://uatleave.busiacounty.go.ke/",
+        github: "https://github.com/evansamos254/leave.management.system"
+    },
+    {
+        id: 'smart-county-development-portal',
+        title: "Smart County Development Portal",
+        description: "A digital portal focused on smart county development initiatives and public service innovation.",
+        image: "Images/project-2.png",
+        live: "https://smart-county-development-portal.vercel.app/",
+        github: "https://github.com/evansamos254/Smart-County-Development-Portal"
     }
 ];
 
