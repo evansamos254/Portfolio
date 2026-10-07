@@ -160,6 +160,14 @@ const projectsData = [
         image: "Images/project-2.png",
         live: "https://smart-county-development-portal.vercel.app/",
         github: "https://github.com/evansamos254/Smart-County-Development-Portal"
+    },
+    {
+        id: 'xeromynd-leave-application-system',
+        title: "XEROMYND System",
+        description: "A web-based leave application system for managing employee leave requests.",
+        image: "Images/project-4.png",
+        live: "https://leave-application-system-henna.vercel.app/",
+        github: "https://github.com/evansamos254/xeromynd-system"
     }
 ];
 
